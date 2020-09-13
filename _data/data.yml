@@ -48,12 +48,11 @@ sidebar:
 career-profile:
     title: Career Profile (Currently Updating CV)
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A motivated graduate with proficient knowledge in several languages and development tools. Experience in several freelance projects. 
+      Volunteer at a local programming club where I mentor young students, currently remotely.
+
+      I am currently seeking an entry-level position in a growth-oriented company where I can use my mobile and web development skills to contribute
+       to the company’s vision and goals while concurrently aiding my professional growth.
 education:
     - degree: BTech in I.T (Software Development)
       university: Cape Peninsula University of Technology
@@ -142,30 +141,8 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
-    title: Skills &amp; Proficiency
+    title: languages and Tools
 
     toolset:
       - name: Java
@@ -174,13 +151,22 @@ skills:
       - name: Javascript
         level: 0%
 
-      - name: HTML5 & CSS
+      - name: HTML & CSS
+        level: 0%
+
+      - name: Bootstrap
         level: 0%
 
       - name: PHP
         level: 0%
 
       - name: MySQL
+        level: 0%
+
+      - name: SQL
+        level: 0%
+
+      - name: Git
         level: 0%
 
 footer: >
