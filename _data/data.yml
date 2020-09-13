@@ -56,7 +56,7 @@ career-profile:
 education:
     - degree: BTech in I.T (Software Development)
       university: Cape Peninsula University of Technology
-      time: 2019 - 2020 (Completing)
+      time: 2019 - 2020 (In Progress)
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -92,57 +92,32 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Personal Website
+        link: "www.keonthite.co.za"
+        tagline: "Simple Personal Website show casing my skills, blog and projects"
 
-      - title: DevStudio
+      - title: Weather App
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "JavaScript Weather app that implements the Open Weather Map API"
 
-      - title: Tempo
+      - title: Todo list
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Todo list app using Vanilla JavaScript"
 
-      - title: Atom
+      - title: Shopping Cart
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "PHP Web app that allows user's to add items to cart and checkout. And also back-end admin functionality to add, update and delete items."
 
-      - title: Delta
+      - title: Step Tracker
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Health and Fitness android app that uses accelerometer sensor to count steps."
 
 skills:
-    title: languages and Tools
+    title: Languages and Tools
 
     toolset:
       - name: Java
@@ -168,6 +143,3 @@ skills:
 
       - name: Git
         level: 0%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
